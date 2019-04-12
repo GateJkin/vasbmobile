@@ -1,0 +1,3 @@
+rootProject.name = 'vasbMobile'
+
+include ':app'
